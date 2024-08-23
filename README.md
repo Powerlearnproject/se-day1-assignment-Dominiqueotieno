@@ -32,7 +32,8 @@ Technical dept, it cam impede future development efforts and icrease maintenance
 Changing requirements,requirements may change during the development cycle,leading to scope creep and delays.
 strategies for overcoming challeges is by effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Explain the different types of testing
+integration, system, and acceptance and their importance in software quality assurance.
 Integration Testing:It interacts between different components or subsystems,System Testing: Test the entire software system as a whole while acceptance Testing, Testing the software against user requirements to ensure it meets user.
 Importance in software quality assurance, Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products.
 
