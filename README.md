@@ -24,10 +24,6 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
  
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-Tight Deadlines,presure to deliver software product on schedule can result in rushed development and compromised quality. 
-Technical dept, it cam impede future development efforts and icrease maintenance costs.
-Changing requirements,requirements may change during the development cycle,leading to scope creep and delays.
-strategies for overcoming challeges is by effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
 Explain the different types of testingintegration, system, and acceptance and their importance in software quality assurance.
 
