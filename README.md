@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/7de33ee9-b703-4dab-b1b1-393172dd275f)[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15575572&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -24,7 +23,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 software developer,is responsible for writting codes and implimenting solutions, Quality assurence Engineer ensure software quality designing and excuting test while, project manager, oversees the planing, excution anf delivering of software projct.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-Integrated Development Environments (IDEs), provides comprehensive tools for writting,debbuging and testing codes while Version Control Systems (VCS) provides tool for tracking changes to source code and coordinating work among members. 
+ 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Tight Deadlines,presure to deliver software product on schedule can result in rushed development and compromised quality. 
@@ -32,10 +31,7 @@ Technical dept, it cam impede future development efforts and icrease maintenance
 Changing requirements,requirements may change during the development cycle,leading to scope creep and delays.
 strategies for overcoming challeges is by effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
-Explain the different types of testing
-integration, system, and acceptance and their importance in software quality assurance.
-Integration Testing:It interacts between different components or subsystems,System Testing: Test the entire software system as a whole while acceptance Testing, Testing the software against user requirements to ensure it meets user.
-Importance in software quality assurance, Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products.
+Explain the different types of testingintegration, system, and acceptance and their importance in software quality assurance.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
